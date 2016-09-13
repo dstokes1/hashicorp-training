@@ -41,6 +41,7 @@ resource "aws_instance" "web" {
     Owner    = "Dave"
     Location = "Here"
   }
+  alhfupigpasgd = jklaihiw
 }
 
 output "public_ip" {
